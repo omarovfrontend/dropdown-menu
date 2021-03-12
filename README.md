@@ -1,3 +1,3 @@
 # dropdown menu
 
-Demo - https://omarov-frontend.github.io/dropdown-menu/
+Demo - https://omarovfrontend.github.io/dropdown-menu/
